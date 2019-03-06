@@ -1,4 +1,4 @@
-# data-science
+# Data Science
 All the data science stuff goes here.
 
 - [Energy forecasting step-by-step](https://github.com/bugsravan/data-science/blob/master/EnergyForecasting_TimeSeries.ipynb) : This notebook takes a step-by-step approach through all the analysis  with detailed explaination. Also here I am performing daily forecasting. 
